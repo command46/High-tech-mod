@@ -1,0 +1,8 @@
+displayName: "高科技"
+name: "mfxiao2"
+author: "xiaoyuyu"
+main: "mfxiao.mfxiao"
+description: "高科技震惊你的心灵\n带有许多核武器并且还有新能源系统以及洲际导弹"
+version: 1.12
+minGameVersion: 136
+java: true
